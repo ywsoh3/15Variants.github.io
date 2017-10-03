@@ -1,0 +1,369 @@
+#Parchment {
+    margin: 20px;
+    padding: 100px;
+    position: relative;
+    display: table;
+
+}
+
+#title {
+    position: fixed;
+    left: 10px;
+    bottom: 400px;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: Impact;
+    font-size: 227px;
+    letter-spacing: -20px;
+    color: black;
+    
+}
+
+#rectangleone {
+    position: fixed;
+    top: 766px;
+    left: 10px;
+	width: 2528px;
+	height: 40px;
+	background: black;
+}
+
+#rectangletwo {
+    position: fixed;
+    top: 547px;
+    left: 10px;
+	width: 2528px;
+	height: 40px;
+	background: black;
+
+}
+
+#Author {
+    position: sticky;
+    top: 460px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 128px;
+    font-size: 100px;
+    color: black;
+    display: block;
+}
+
+
+
+.Subtitles {
+    position: relative;
+    top: 500px
+}
+
+#ParaOne {
+    display: grid;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+}
+
+#One {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+
+
+
+
+
+#ParaTwo {
+     display: grid;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+
+}
+
+#Two {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+
+
+
+
+
+#ParaThree {
+     display: grid;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+
+}
+
+#Three {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+
+
+
+
+
+#ParaFour {
+     display: grid;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+
+}
+
+#Four {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+
+
+
+
+
+#ParaFive {
+     display: grid;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+
+}
+
+#Five {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+
+
+
+
+
+
+
+#ParaSix {
+     display: grid;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+
+}
+
+#Six {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+
+
+
+
+
+
+#ParaSeven {
+     display: grid;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+
+}
+
+#Seven {
+   text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+
+
+
+
+
+
+#ParaEight {
+     display: grid;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+
+}
+
+#Eight {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+
+
+
+
+
+
+#ParaNine {
+     display: grid; 
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+
+}
+
+#Nine {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}
+
+
+
+
+
+
+#ParaTen {
+     display: grid;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    position: static;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    filter: drop-shadow(0px 0px 0px white)
+}
+
+
+#Ten {
+    text-align: left;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: white;
+    position: relative;
+}

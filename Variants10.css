@@ -1,0 +1,206 @@
+#Author {
+    width: 200px;
+    float: left;
+}
+
+
+
+
+
+.ParaOne {
+    text-align: left;
+    margin-top: 100px;
+    font-size: 70px;
+}
+
+.ParaA {
+    font-size: 30px;
+    text-align: left;
+    position: relative;
+    top: -1px; 
+}
+
+
+
+
+
+.ParaTwo {
+    text-align: right;
+    font-size: 90px;
+    position: relative;
+        top: -280px
+}
+
+.ParaB {
+    text-align: right;
+    position: relative;
+    font-size: 50px;
+    top: -360px
+}
+
+
+
+
+
+.ParaThree {
+    text-align: left;
+    position: relative;
+        top: -570px;
+    font-size: 100px;
+}
+
+.ParaC {
+     font-size: 50px;
+    text-align: left;
+    position: relative;
+    top: -660px; 
+}
+
+
+
+
+
+
+.ParaFour {
+    text-align: center;
+    font-size: 110px;
+    position: relative;
+        top: -750px;
+    border: 10px solid black;
+}
+
+.ParaD {
+    text-align: center;
+    position: relative;
+    font-size: 100px;
+    top: -860px;
+}
+
+
+
+
+
+
+.ParaFive {
+    text-align: left;
+    font-size: 150px;
+    position: relative;
+        top: -955px;
+}
+.ParaE {
+    text-align: right;
+    position: relative;
+    top: -1165px;
+    font-size: 16px;
+}
+
+
+
+
+
+.ParaSix {
+    text-align: right;
+    margin-top: -1160px;
+    font-size: 70px;
+}
+
+.ParaF {
+    font-size: 30px;
+    text-align: right;
+    position: relative;
+    top: -60px; 
+}
+
+
+
+
+
+.ParaSeven {
+    text-align: left;
+    font-size: 115px;
+    position: relative;
+        top: -370px
+}
+
+.ParaG {
+    text-align: left;
+    position: relative;
+    font-size: 46px;
+    top: -465px
+}
+
+
+
+
+
+.ParaEight {
+    text-align: right;
+    position: relative;
+        top: -570px;
+    font-size: 100px;
+}
+
+.ParaH {
+     font-size: 50px;
+    text-align: right;
+    position: relative;
+    top: -660px; 
+}
+
+
+
+
+
+
+.ParaNine {
+    text-align: center;
+    font-size: 129px;
+    position: relative;
+        top: -750px;
+    border: 10px solid black;
+}
+
+.ParaI {
+    text-align: center;
+    position: relative;
+    font-size: 80px;
+    top: -860px;
+}
+
+
+
+
+
+
+.ParaTen {
+    text-align: left;
+    font-size: 150px;
+    position: relative;
+        top: -955px;
+}
+.ParaJ {
+    text-align: right;
+    position: relative;
+    top: -1230px;
+    font-size: 50px;
+    }
+
+div {
+ padding: 10px   
+}
+
+h1 {
+    position: relative;
+    top: 190px;
+    text-align: center;
+        font-size: 160;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: sans-serif
+}
+
+p {
+    font-family: sans-serif
+}

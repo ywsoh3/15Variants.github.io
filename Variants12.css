@@ -1,0 +1,229 @@
+
+
+.ParaOne {
+    text-align: center;
+    font-size: 166px;
+    text-transform: uppercase;
+}
+
+
+
+.ParaTwo {
+    text-align: center;
+    font-size: 116px;
+    text-transform: uppercase;
+    position: relative;
+    top: -324px;
+}
+
+
+
+.ParaThree {
+    text-align: center;
+    font-size: 172px;
+    text-transform: uppercase;
+    position: relative;
+    top: -640px;
+}
+
+
+
+.ParaFour {
+    text-align: center;
+    font-size: 92.5px;
+    text-transform: uppercase;
+    position: relative;
+    top: -907px;
+    
+}
+
+
+
+.ParaFive {
+    text-align: center;
+    font-size: 156px;
+    text-transform: uppercase;
+    position: relative;
+    top: -1219px;
+    
+
+}
+
+
+
+.ParaSix {
+    text-align: center;
+    font-size: 195px;
+    text-transform: uppercase;
+    position: relative;
+    top: -1604px;
+
+}
+
+
+
+.ParaSeven {
+    text-align: center;
+    font-size: 152px;
+    text-transform: uppercase;
+    position: relative;
+    top: -1946px;
+
+}
+
+
+
+.ParaEight {
+    text-align: center;
+    font-size: 86.5px;
+    text-transform: uppercase;
+    position: relative;
+    top: -2246px;
+
+}
+
+
+
+.ParaNine {
+    text-align: center;
+    font-size: 103.2px;
+    text-transform: uppercase;
+    position: relative;
+    top: -2500px;
+
+}
+
+
+
+.ParaTen {
+    text-align: center;
+    font-size: 101.5px;
+    text-transform: uppercase;
+    position: relative;
+    top: -2750px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.One {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 23.7px;
+    position: relative;
+    top: -185px;
+}
+.Two {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 26.5px;
+    position: relative;
+    top: -452px;
+
+}
+.Three {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 34.5px;
+    position: relative;
+    top: -830px;
+
+}
+.Four {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 60.5px;
+    position: relative;
+    top: -1010px;
+
+}
+.Five {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 31.5px;
+    position: relative;
+    top: -1391px;
+
+}
+.Six {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 38.2px;
+    position: relative;
+    top: -1820px;
+
+}
+.Seven {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 41.9px;
+    position: relative;
+    top: -2114px;
+
+}
+.Eight {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 52.5px;
+    position: relative;
+    top: -2342px;
+
+}
+.Nine {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 33.6px;
+    position: relative;
+    top: -2614px;
+
+}
+.Ten {
+    text-transform: lowercase;
+    text-align: center;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    font-size: 40.9px;
+    position: relative;
+    top: -2862px;
+
+}

@@ -1,0 +1,112 @@
+#Author {
+    width: 200px;
+    float: left 
+}
+.ParaOne {
+    border-top: 20px solid red;
+    border-right: 20px solid yellow;
+    border-bottom: 20px solid blue;
+    border-left: 20px solid white;
+
+}
+
+.ParaTwo {
+    margin: top 70px;
+    border-left: 20px solid red;
+    border-bottom: 20px solid yellow;
+    position: fixed;
+    top: 322px;
+    
+}
+
+.ParaThree {
+     margin: top 70px;
+    border-right: 20px solid blue;
+    border-top: 20px solid yellow;
+    border-bottom: 20px solid red;
+    position: fixed;
+    top: 424px;
+    left: 400px
+}
+
+.ParaFour {
+     margin: top 70px;
+    border-left: 20px solid yellow;
+    border-top: 20px solid red;
+    border-bottom: 20px solid blue;
+    position: fixed;
+    top: 546px;
+  
+}
+
+.ParaFive {
+       margin: top 70px;
+    border-right: 20px solid red;
+    border-top: 20px solid blue;
+    border-bottom: 20px solid yellow;
+    position: fixed;
+    top: 667px;
+    left: 400px
+}
+
+.ParaSix {
+     margin: top 70px;
+    border-left: 20px solid blue;
+    border-bottom: 20px solid red;
+    border-top: 20px solid yellow;
+    position: fixed;
+    top: 789px;
+}
+.ParaSeven {
+     margin: top 70px;
+    border-right: 20px solid yellow;
+    border-top: 20px solid red;
+    border-bottom: 20px solid blue;
+    position: fixed;
+    top: 911px;
+    left: 400px
+    
+}
+
+.ParaEight {
+    margin: top 70px;
+    border-left: 20px solid red;
+    border-top: 20px solid blue;
+    border-bottom: 20px solid yellow;
+    position: fixed;
+    top: 1033px;
+    
+}
+
+.ParaNine {
+    margin: top 70px;
+    border-right: 20px solid blue;
+    border-bottom: 20px solid red;
+    border-top: 20px solid yellow;
+    position: fixed;
+    top: 1155px;
+    left: 400px
+  
+}
+
+.ParaTen {
+    margin: top 70px;
+    border-left: 20px solid yellow;
+    border-bottom: 20px solid blue;
+    border-top: 20px solid red;
+    position: fixed;
+    top: 1277px;
+}
+
+#Author {
+    float: right;
+    border: 5px solid black
+}
+
+#title {
+    border-top: 10px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 10px solid black;
+}
+

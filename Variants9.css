@@ -1,0 +1,93 @@
+#Author {
+    width: 200px;
+    float: left 
+}
+.ParaOne {
+    border: 10px solid red;
+    position: fixed;
+    top: 200;
+    left: 850;
+}
+
+.ParaTwo {
+
+    border: 10px solid orange;
+    position: fixed;
+    top: 300;
+    left: 433
+}
+
+.ParaThree {
+
+    border: 10px solid yellow;
+    position: fixed;
+    top: 384;
+        left: 850 
+}
+
+.ParaFour {
+
+    border: 10px solid green;
+    position: fixed;
+    top: 466;
+    left: 174
+}
+
+.ParaFive {
+
+    border: 10px solid blue;
+    position: fixed;
+    top: 578;
+     left: 171
+}
+
+.ParaSix {
+
+    border: 10px solid indigo;
+    position: fixed;
+    top: 550;
+     left: 851
+}
+
+.ParaSeven {
+
+    border: 10px solid violet;
+    position: fixed;
+    top: 680;
+     left: 851
+}
+
+.ParaEight {
+
+    border: 10px solid pink;
+    position: fixed;
+    top: 726;
+     left: 68
+}
+
+.ParaNine {
+
+    border: 10px solid purple;
+    position: fixed;
+    top: 839;
+     left: 160
+}
+
+.ParaTen {
+
+    border: 10px solid brown;
+    position: fixed;
+    top: 828;
+     left: 851
+}
+
+div {
+    
+    
+    
+     
+}
+
+h1 {
+    float: right
+}

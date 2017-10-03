@@ -1,0 +1,48 @@
+body {
+    background-color: aqua
+}
+
+#maintitle{
+    font-family: 'Helvetica';
+    text-align: center;
+    box-sizing: border-box
+}
+#TenPrinc{
+    text-align: center;
+}
+
+
+#LevelOne{
+    margin: 10px;
+    background-color: lightblue;
+    border-color: azure;
+    font-family: 'Helvetica';
+}
+
+#LevelTwo{
+    margin: 10px;
+    background-color: lightblue;
+    border-color: azure;
+    font-family: 'Helvetica';
+}
+
+#LevelThree{
+    margin: 10px;
+    background-color: lightblue;
+    border-color: azure;
+    font-family: 'Helvetica';
+}
+
+#LevelFour{
+    margin: 10px;
+    background-color: lightblue;
+    border-color: azure;
+    font-family: 'Helvetica';
+}
+
+#LevelFive{
+    margin: 10px;
+    background-color: lightblue;
+    border-color: azure;
+    font-family: 'Helvetica';
+}

@@ -1,0 +1,62 @@
+#Author {
+    width: 200px;
+    float: left 
+}
+.ParaOne {
+    
+    margin-top: 100px;
+    border: 10px solid black; 
+}
+
+.ParaTwo {
+    margin: top 70px;
+    border: 10px solid black
+}
+
+.ParaThree {
+    margin: top 70px;
+    border: 10px solid black
+}
+
+.ParaFour {
+    margin: top 70px;
+    border: 10px solid black
+}
+
+.ParaFive {
+    margin: top 70px;
+    border: 10px solid black
+}
+
+.ParaSix {
+    margin: top 70px;
+    border: 10px solid black
+}
+
+.ParaSeven {
+    margin: top 70px;
+    border: 10px solid black
+}
+
+.ParaEight {
+    margin: top 70px;
+    border: 10px solid black
+}
+
+.ParaNine {
+    margin: top 70px;
+    border: 10px solid black
+}
+
+.ParaTen {
+    margin: top 70px;
+    border: 10px solid black
+}
+
+div {
+ padding: 10px   
+}
+
+h1 {
+    float: right
+}
